@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: GeekMaths-info
+title: GeekMaths-infos
 
 # Your name to show in the footer
-author: Marcel Babatoundé Mafoya Marcel
+author: Babatoundé Mafoya Marcel ALOEKPO
 
 # --- List of links in the navigation bar --- #
 
@@ -39,21 +39,21 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "marcelaloekpo@gmail.com"
+  facebook: ALOEKPO Marcel
+  github: MarxdeMarx
+  twitter: ALOEKPO Marcel
+  patreon: 
+  youtube: 
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: ALOEKPO Marcel
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +22967070355
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
